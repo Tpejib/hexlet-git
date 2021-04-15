@@ -1,1 +1,1 @@
-Hello, Git
+Hello, Hexlet! Gow are you?
